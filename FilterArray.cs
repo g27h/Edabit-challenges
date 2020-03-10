@@ -16,12 +16,11 @@ namespace Edabit_challenges
          */
         public static int[] filterArray(object[] arr){
             //task: return string with only ints and no strings
-            //method: use mod?
-            List<object> intList = new List<object>();
-            foreach (object i in arr){
+            List<object> intList = new List<object>(); //create object List
+            foreach (object i in arr){ //add items from object array to list
                 intList.Add(i);
             }
-            return intList.OfType<int>().ToArray();
+            return intList.OfType<int>().ToArray(); //filter out all objects not of int and turn it into an array.
 
         }
     }
