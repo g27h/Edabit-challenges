@@ -18,10 +18,13 @@ namespace Edabit_challenges
         public static void Main(string[] args)
         {
             //Console.WriteLine("Hello World!");
-            string[] arr = {"Algorism","PasSword","Dermatoglyphics","Cat","Filmography","Moose","Consecutive"};
-            foreach (string str in arr){
-                System.Console.WriteLine(IsIsogram.IsIsogram2(str));
-            }
+            //string[] arr = {"Algorism","PasSword","Dermatoglyphics","Cat","Filmography","Moose","Consecutive"};
+            //foreach (string str in arr){
+            //    System.Console.WriteLine(IsIsogram.IsIsogram2(str));
+            //}
+            object[] haystack_1 = new object[] { 1, 2, "a", "b" };
+            System.Console.WriteLine(FilterArray.filterArray(haystack_1));
+
         }
     }
 }

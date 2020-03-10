@@ -9,3 +9,14 @@ D:\Documents\GitHub Desktop\Repositories\Edabit-challenges\obj\Debug\netcoreapp3
 D:\Documents\GitHub Desktop\Repositories\Edabit-challenges\obj\Debug\netcoreapp3.1\Edabit-challenges.AssemblyInfo.cs
 D:\Documents\GitHub Desktop\Repositories\Edabit-challenges\obj\Debug\netcoreapp3.1\Edabit-challenges.dll
 D:\Documents\GitHub Desktop\Repositories\Edabit-challenges\obj\Debug\netcoreapp3.1\Edabit-challenges.pdb
+C:\Users\hurtadg\Documents\GitHub Desktop\Repositories\Edabit-challenges\obj\Debug\netcoreapp3.1\Edabit-challenges.csprojAssemblyReference.cache
+C:\Users\hurtadg\Documents\GitHub Desktop\Repositories\Edabit-challenges\obj\Debug\netcoreapp3.1\Edabit-challenges.AssemblyInfoInputs.cache
+C:\Users\hurtadg\Documents\GitHub Desktop\Repositories\Edabit-challenges\obj\Debug\netcoreapp3.1\Edabit-challenges.AssemblyInfo.cs
+C:\Users\hurtadg\Documents\GitHub Desktop\Repositories\Edabit-challenges\obj\Debug\netcoreapp3.1\Edabit-challenges.dll
+C:\Users\hurtadg\Documents\GitHub Desktop\Repositories\Edabit-challenges\obj\Debug\netcoreapp3.1\Edabit-challenges.pdb
+C:\Users\hurtadg\Documents\GitHub Desktop\Repositories\Edabit-challenges\bin\Debug\netcoreapp3.1\Edabit-challenges.exe
+C:\Users\hurtadg\Documents\GitHub Desktop\Repositories\Edabit-challenges\bin\Debug\netcoreapp3.1\Edabit-challenges.deps.json
+C:\Users\hurtadg\Documents\GitHub Desktop\Repositories\Edabit-challenges\bin\Debug\netcoreapp3.1\Edabit-challenges.runtimeconfig.json
+C:\Users\hurtadg\Documents\GitHub Desktop\Repositories\Edabit-challenges\bin\Debug\netcoreapp3.1\Edabit-challenges.runtimeconfig.dev.json
+C:\Users\hurtadg\Documents\GitHub Desktop\Repositories\Edabit-challenges\bin\Debug\netcoreapp3.1\Edabit-challenges.dll
+C:\Users\hurtadg\Documents\GitHub Desktop\Repositories\Edabit-challenges\bin\Debug\netcoreapp3.1\Edabit-challenges.pdb

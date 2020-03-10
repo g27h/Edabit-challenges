@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\GitHub Desktop\\Repositories\\Edabit-challenges\\Edabit-challenges.csproj": {}
+    "C:\\Users\\hurtadg\\Documents\\GitHub Desktop\\Repositories\\Edabit-challenges\\Edabit-challenges.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\GitHub Desktop\\Repositories\\Edabit-challenges\\Edabit-challenges.csproj": {
+    "C:\\Users\\hurtadg\\Documents\\GitHub Desktop\\Repositories\\Edabit-challenges\\Edabit-challenges.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\GitHub Desktop\\Repositories\\Edabit-challenges\\Edabit-challenges.csproj",
+        "projectUniqueName": "C:\\Users\\hurtadg\\Documents\\GitHub Desktop\\Repositories\\Edabit-challenges\\Edabit-challenges.csproj",
         "projectName": "Edabit-challenges",
-        "projectPath": "D:\\Documents\\GitHub Desktop\\Repositories\\Edabit-challenges\\Edabit-challenges.csproj",
-        "packagesPath": "C:\\Users\\Gustavo Hurtado\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\GitHub Desktop\\Repositories\\Edabit-challenges\\obj\\",
+        "projectPath": "C:\\Users\\hurtadg\\Documents\\GitHub Desktop\\Repositories\\Edabit-challenges\\Edabit-challenges.csproj",
+        "packagesPath": "C:\\Users\\hurtadg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hurtadg\\Documents\\GitHub Desktop\\Repositories\\Edabit-challenges\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gustavo Hurtado\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\hurtadg\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
